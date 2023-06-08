@@ -1,3 +1,5 @@
+# Demo
+site is live at https://ali-el-shoraa.github.io/qr-code-component-main/
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
